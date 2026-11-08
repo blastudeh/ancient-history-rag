@@ -118,13 +118,14 @@ def make_prompt(question, hits):
 def generate(question, hits, model=MODEL, baseline=False):
     system = ('Answer this ancient-history question concisely. If you do not know, say so.'
               if baseline else SYSTEM)
+    system += ' Answer in at most 80 words. Keep required source citations.'
     prompt = question if baseline else make_prompt(question, hits)
     body = {'model': model, 'system': system, 'prompt': prompt, 'stream': False,
             'options': {'temperature': 0, 'seed': 42, 'num_ctx': 4096, 'num_predict': 450}}
     req = urllib.request.Request(API, data=json.dumps(body).encode(),
                                  headers={'Content-Type': 'application/json'}, method='POST')
     try:
-        with urllib.request.urlopen(req, timeout=240) as response:
+        with urllib.request.urlopen(req, timeout=600) as response:
             raw = json.load(response)
     except urllib.error.HTTPError as e:
         detail = e.read().decode(errors='replace')[:400]

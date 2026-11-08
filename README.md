@@ -1,5 +1,22 @@
 # Exercise 2 - Ancient History RAG
 
+## Verified Ubuntu run — update 8 November 2026
+
+The student-supplied evaluation dated 7 November completed all 13 selected questions with `llama3.2:1b` and no recorded generation errors. Twelve questions called the LLM; one used a deterministic no-evidence refusal. Source recall@4 was 1.0 on 10 answerable questions. **This is retrieval recall, not answer accuracy.** The review documents incorrect refusals, incomplete answers and citation problems. No same-model 1B baseline comparison is available.
+
+- [Raw evaluation](results/rag_1b_evaluation.json)
+- [Answer-by-answer review](docs/RAG_Evaluation_Review.md)
+
+The recovered Ubuntu `rag.py` uses a 600-second timeout and an 80-word instruction. All 14 unit tests passed again on 8 November. `evaluate_safe.py` supports checkpointing and RAG-only runs:
+
+```bash
+ollama pull llama3.2:1b
+python3 evaluate_safe.py --live --model llama3.2:1b --mode rag --output results/new_1b_evaluation.json
+```
+
+The original report and any older pending-review text below are retained as historical documentation; this update and the linked evaluation review supersede their test-status claims. The current archival pass did not rerun Ollama.
+
+
 A Python question-answering project about Egypt, Mesopotamia and Roman Britain.
 Prepared for Okum Udeh, 3 November 2026. Deadline supplied: 10 November 2026, 23:00.
 

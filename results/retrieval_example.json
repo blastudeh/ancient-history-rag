@@ -1,0 +1,51 @@
+{
+  "timestamp_utc": "2026-11-03T05:43:05.904863+00:00",
+  "question": "How was papyrus made into a writing surface?",
+  "mode": "retrieve",
+  "model": null,
+  "used_llm": false,
+  "corpus_sha256": "d3f275b63ea337ed3a89a7ba709dfea98d1b75999c5a439287091ecbd7e5560e",
+  "retriever": "BM25",
+  "top_k": 4,
+  "answer": "RETRIEVAL ONLY: passages shown below; no LLM answer was generated.",
+  "retrieved": [
+    {
+      "id": "EG02-01",
+      "source_id": "EG02",
+      "title": "Papyrus in Ancient Egypt",
+      "organization": "The Metropolitan Museum of Art; Janice Kamrin",
+      "url": "https://www.metmuseum.org/essays/papyrus-in-ancient-egypt",
+      "text": "In ancient Egypt, papyrus served as a writing material and as a resource for everyday objects. To make a writing surface, workers arranged strips from the stalk's inner pith in layers and dried them under pressure. Sheets could be joined into rolls. Egypt's dry conditions helped preserve papyrus documents. Surviving examples include letters, contracts, administrative records and religious texts. Papyrus also supplied material for baskets, mats, sandals, ropes and small boats. For much of Egyptian history, scribes used the cursive",
+      "score": 6.403653
+    },
+    {
+      "id": "EG02-02",
+      "source_id": "EG02",
+      "title": "Papyrus in Ancient Egypt",
+      "organization": "The Metropolitan Museum of Art; Janice Kamrin",
+      "url": "https://www.metmuseum.org/essays/papyrus-in-ancient-egypt",
+      "text": "mats, sandals, ropes and small boats. For much of Egyptian history, scribes used the cursive hieratic script on papyrus. Their equipment included writing implements, water and ink. Most text used black ink, while red could emphasize particular material. Papyrus is a material; it is not the name of a writing system.",
+      "score": 3.597914
+    },
+    {
+      "id": "ME01-01",
+      "source_id": "ME01",
+      "title": "Mesopotamia: Civilization Begins",
+      "organization": "Getty Museum",
+      "url": "https://www.getty.edu/art/exhibitions/mesopotamia/explore.html",
+      "text": "Mesopotamia was centered in what is now Iraq. In southern Mesopotamia, urban institutions developed around 3400-3000 BCE. Cities combined monumental buildings with officials who organized economic, agricultural and religious activity. Uruk was an important early Sumerian city. Intensive irrigation agriculture supported city growth, and major temple estates directed canal maintenance. Early writing appeared in southern Mesopotamia around 3400 BCE. Initial picture signs developed into wedge-shaped cuneiform by about 2600 BCE. Cuneiform was used for Sumerian and later Akkadian and other",
+      "score": 1.727082
+    },
+    {
+      "id": "ME01-02",
+      "source_id": "ME01",
+      "title": "Mesopotamia: Civilization Begins",
+      "organization": "Getty Museum",
+      "url": "https://www.getty.edu/art/exhibitions/mesopotamia/explore.html",
+      "text": "cuneiform by about 2600 BCE. Cuneiform was used for Sumerian and later Akkadian and other languages. Clay tablets recorded receipts, contracts, letters, laws and literature. Sargon established a lasting Mesopotamian empire. In 539 BCE, Cyrus the Great captured Babylon and brought Mesopotamia into the Persian Empire.",
+      "score": 1.40528
+    }
+  ],
+  "warnings": [],
+  "note": "Citation checks validate IDs, not factual support. Human review is required."
+}

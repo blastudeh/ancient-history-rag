@@ -1,0 +1,242 @@
+{
+  "timestamp_utc": "2026-11-06T19:04:49.342584+00:00",
+  "corpus_sha256": "d3f275b63ea337ed3a89a7ba709dfea98d1b75999c5a439287091ecbd7e5560e",
+  "live_requested": false,
+  "mean_source_recall_at_4": 1.0,
+  "answerable_questions": 10,
+  "total_questions": 13,
+  "note": "Small development set, not an independent benchmark. Retrieval recall is NOT answer accuracy.",
+  "rows": [
+    {
+      "id": "Q01",
+      "question": "Why was the Nile important for agriculture in Egypt?",
+      "expected_sources": [
+        "EG01"
+      ],
+      "answerable": true,
+      "review": "Connect fertile land by the Nile to farming.",
+      "retrieved_ids": [
+        "EG01-01",
+        "ME01-01",
+        "EG02-01",
+        "RO02-01"
+      ],
+      "source_recall_at_4": 1.0,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q02",
+      "question": "How was papyrus made into a writing surface?",
+      "expected_sources": [
+        "EG02"
+      ],
+      "answerable": true,
+      "review": "Inner pith strips, layers and drying under pressure.",
+      "retrieved_ids": [
+        "EG02-01",
+        "EG02-02",
+        "ME01-01",
+        "ME01-02"
+      ],
+      "source_recall_at_4": 1.0,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q03",
+      "question": "What everyday objects could be made from papyrus?",
+      "expected_sources": [
+        "EG02"
+      ],
+      "answerable": true,
+      "review": "Examples such as baskets, mats, sandals, ropes or boats.",
+      "retrieved_ids": [
+        "EG02-01",
+        "EG02-02",
+        "EG01-01"
+      ],
+      "source_recall_at_4": 1.0,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q04",
+      "question": "What was cuneiform and what was it used for?",
+      "expected_sources": [
+        "ME01"
+      ],
+      "answerable": true,
+      "review": "Wedge-shaped writing; economic and other texts.",
+      "retrieved_ids": [
+        "ME01-02",
+        "ME01-01",
+        "EG02-02",
+        "RO01-01"
+      ],
+      "source_recall_at_4": 1.0,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q05",
+      "question": "How did irrigation support the growth of Uruk?",
+      "expected_sources": [
+        "ME01"
+      ],
+      "answerable": true,
+      "review": "Intensive agriculture and canal maintenance supported urban growth.",
+      "retrieved_ids": [
+        "ME01-01",
+        "ME02-01"
+      ],
+      "source_recall_at_4": 1.0,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q06",
+      "question": "What transaction is recorded on tablet D 714?",
+      "expected_sources": [
+        "ME02"
+      ],
+      "answerable": true,
+      "review": "A land sale; distinguish the specific object from tablets in general.",
+      "retrieved_ids": [
+        "ME02-01",
+        "ME01-02"
+      ],
+      "source_recall_at_4": 1.0,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q07",
+      "question": "Could anyone use the cursus publicus?",
+      "expected_sources": [
+        "RO01"
+      ],
+      "answerable": true,
+      "review": "For official travel; private users needed special permission.",
+      "retrieved_ids": [
+        "RO01-01",
+        "RO02-02"
+      ],
+      "source_recall_at_4": 1.0,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q08",
+      "question": "What was an agger in a Roman road?",
+      "expected_sources": [
+        "RO02"
+      ],
+      "answerable": true,
+      "review": "Raised bank forming the road core; stone or gravel.",
+      "retrieved_ids": [
+        "RO02-01",
+        "RO02-02",
+        "RO01-02",
+        "RO01-01"
+      ],
+      "source_recall_at_4": 1.0,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q09",
+      "question": "Compare papyrus in Egypt with clay tablets in Mesopotamia as writing materials.",
+      "expected_sources": [
+        "EG02",
+        "ME02"
+      ],
+      "answerable": true,
+      "review": "Retrieve and cite both materials; distinguish material from script.",
+      "retrieved_ids": [
+        "EG02-01",
+        "ME01-02",
+        "ME02-01",
+        "EG02-02"
+      ],
+      "source_recall_at_4": 1.0,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q10",
+      "question": "Why did Romans use water transport as well as roads?",
+      "expected_sources": [
+        "RO01",
+        "RO02"
+      ],
+      "answerable": true,
+      "review": "Cheaper goods movement by water and connected transport routes.",
+      "retrieved_ids": [
+        "RO02-02",
+        "RO01-01",
+        "RO01-02",
+        "RO02-01"
+      ],
+      "source_recall_at_4": 1.0,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q11",
+      "question": "What was Cleopatra's exact height in centimeters?",
+      "expected_sources": [],
+      "answerable": false,
+      "review": "Refuse: corpus gives no measurement.",
+      "retrieved_ids": [
+        "EG02-01"
+      ],
+      "source_recall_at_4": null,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q12",
+      "question": "How do I repair a car engine?",
+      "expected_sources": [],
+      "answerable": false,
+      "review": "Refuse: unrelated to this corpus.",
+      "retrieved_ids": [],
+      "source_recall_at_4": null,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    },
+    {
+      "id": "Q13",
+      "question": "What was the exact annual budget of Roman road maintenance?",
+      "expected_sources": [
+        "RO01",
+        "RO02"
+      ],
+      "answerable": false,
+      "review": "Refuse despite topical matches: no budget is provided.",
+      "retrieved_ids": [
+        "RO02-01",
+        "RO02-02",
+        "ME01-01",
+        "RO01-02"
+      ],
+      "source_recall_at_4": null,
+      "human_correctness": null,
+      "human_citation_support": null,
+      "human_refusal_correct": null
+    }
+  ]
+}

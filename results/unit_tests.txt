@@ -1,0 +1,19 @@
+test_baseline_has_no_context (test_rag.PipelineTests.test_baseline_has_no_context) ... ok
+test_blank_question_rejected (test_rag.PipelineTests.test_blank_question_rejected) ... ok
+test_citation_validation (test_rag.PipelineTests.test_citation_validation) ... ok
+test_empty_text (test_rag.PipelineTests.test_empty_text) ... ok
+test_index_provenance (test_rag.PipelineTests.test_index_provenance) ... ok
+test_invalid_overlap (test_rag.PipelineTests.test_invalid_overlap) ... ok
+test_model_error_not_fabricated (test_rag.PipelineTests.test_model_error_not_fabricated) ... ok
+test_model_transport_contract_mock_only (test_rag.PipelineTests.test_model_transport_contract_mock_only) ... ok
+test_no_hits_does_not_call_model (test_rag.PipelineTests.test_no_hits_does_not_call_model) ... ok
+test_overlap_and_coverage (test_rag.PipelineTests.test_overlap_and_coverage) ... ok
+test_prompt_contains_real_evidence (test_rag.PipelineTests.test_prompt_contains_real_evidence) ... ok
+test_retrieval_relevance (test_rag.PipelineTests.test_retrieval_relevance) ... ok
+test_retrieve_never_calls_model (test_rag.PipelineTests.test_retrieve_never_calls_model) ... ok
+test_truncated_response_rejected (test_rag.PipelineTests.test_truncated_response_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.007s
+
+OK

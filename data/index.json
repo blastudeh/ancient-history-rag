@@ -1,0 +1,96 @@
+{
+  "source_sha256": "d3f275b63ea337ed3a89a7ba709dfea98d1b75999c5a439287091ecbd7e5560e",
+  "chunk_words": 80,
+  "overlap_words": 15,
+  "documents": 6,
+  "chunks": [
+    {
+      "id": "EG01-01",
+      "source_id": "EG01",
+      "title": "Egypt: the Nile and the natural environment",
+      "organization": "British Museum",
+      "url": "https://www.britishmuseum.org/sites/default/files/2025-08/Life_in_ancient_Egypt_Visit_Resource.pdf",
+      "text": "Ancient Egyptian life depended on the Nile and its surrounding environment. Fertile land beside the river supplied soil for agriculture. Egyptians distinguished this productive black land from the red land of the surrounding desert. The desert also supplied mineral resources. The Nile therefore helps explain why farming and settlement concentrated along the river rather than across the dry landscape. Archaeologists study objects, written records and images to understand daily life in ancient Egypt."
+    },
+    {
+      "id": "EG02-01",
+      "source_id": "EG02",
+      "title": "Papyrus in Ancient Egypt",
+      "organization": "The Metropolitan Museum of Art; Janice Kamrin",
+      "url": "https://www.metmuseum.org/essays/papyrus-in-ancient-egypt",
+      "text": "In ancient Egypt, papyrus served as a writing material and as a resource for everyday objects. To make a writing surface, workers arranged strips from the stalk's inner pith in layers and dried them under pressure. Sheets could be joined into rolls. Egypt's dry conditions helped preserve papyrus documents. Surviving examples include letters, contracts, administrative records and religious texts. Papyrus also supplied material for baskets, mats, sandals, ropes and small boats. For much of Egyptian history, scribes used the cursive"
+    },
+    {
+      "id": "EG02-02",
+      "source_id": "EG02",
+      "title": "Papyrus in Ancient Egypt",
+      "organization": "The Metropolitan Museum of Art; Janice Kamrin",
+      "url": "https://www.metmuseum.org/essays/papyrus-in-ancient-egypt",
+      "text": "mats, sandals, ropes and small boats. For much of Egyptian history, scribes used the cursive hieratic script on papyrus. Their equipment included writing implements, water and ink. Most text used black ink, while red could emphasize particular material. Papyrus is a material; it is not the name of a writing system."
+    },
+    {
+      "id": "ME01-01",
+      "source_id": "ME01",
+      "title": "Mesopotamia: Civilization Begins",
+      "organization": "Getty Museum",
+      "url": "https://www.getty.edu/art/exhibitions/mesopotamia/explore.html",
+      "text": "Mesopotamia was centered in what is now Iraq. In southern Mesopotamia, urban institutions developed around 3400-3000 BCE. Cities combined monumental buildings with officials who organized economic, agricultural and religious activity. Uruk was an important early Sumerian city. Intensive irrigation agriculture supported city growth, and major temple estates directed canal maintenance. Early writing appeared in southern Mesopotamia around 3400 BCE. Initial picture signs developed into wedge-shaped cuneiform by about 2600 BCE. Cuneiform was used for Sumerian and later Akkadian and other"
+    },
+    {
+      "id": "ME01-02",
+      "source_id": "ME01",
+      "title": "Mesopotamia: Civilization Begins",
+      "organization": "Getty Museum",
+      "url": "https://www.getty.edu/art/exhibitions/mesopotamia/explore.html",
+      "text": "cuneiform by about 2600 BCE. Cuneiform was used for Sumerian and later Akkadian and other languages. Clay tablets recorded receipts, contracts, letters, laws and literature. Sargon established a lasting Mesopotamian empire. In 539 BCE, Cyrus the Great captured Babylon and brought Mesopotamia into the Persian Empire."
+    },
+    {
+      "id": "ME02-01",
+      "source_id": "ME02",
+      "title": "Cuneiform tablet",
+      "organization": "Vatican Museums",
+      "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-gregoriano-egizio/sala-viii--antichita-del-vicino-oriente-antico/tavoletta-cuneiforme.html",
+      "text": "Sumerian writing developed in the fourth millennium BCE to support economic activity in growing Mesopotamian towns. Scribes marked clay tablets with a pointed stylus. Tablets could dry in the sun or be fired in a furnace. Administrative archives preserve evidence about political events, economic organization and religion. The Vatican Museums' tablet D 714 records a sale of land. Its text repeatedly names Enlil, the chief deity of Nippur. This object illustrates how writing supported transactions, rather than serving only kings"
+    },
+    {
+      "id": "ME02-02",
+      "source_id": "ME02",
+      "title": "Cuneiform tablet",
+      "organization": "Vatican Museums",
+      "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-gregoriano-egizio/sala-viii--antichita-del-vicino-oriente-antico/tavoletta-cuneiforme.html",
+      "text": "deity of Nippur. This object illustrates how writing supported transactions, rather than serving only kings or religious ceremonies. It is a specific example of the administrative and economic uses of Mesopotamian writing."
+    },
+    {
+      "id": "RO01-01",
+      "source_id": "RO01",
+      "title": "Romans: Networks",
+      "organization": "English Heritage",
+      "url": "https://www.english-heritage.org.uk/learn/story-of-england/romans/networks/",
+      "text": "In Roman Britain, engineered roads connected cities and military bases. Soldiers and civilians both used the network. Roads supported trade and communication, and settlements often developed where access was good. The imperial communication service, called the cursus publicus, provided facilities such as inns, stables, animals and wagons for official travel. Private people needed special permission to use this service; it was not an unrestricted public postal service. Water transport complemented roads. Rivers offered a cheaper and faster way to move"
+    },
+    {
+      "id": "RO01-02",
+      "source_id": "RO01",
+      "title": "Romans: Networks",
+      "organization": "English Heritage",
+      "url": "https://www.english-heritage.org.uk/learn/story-of-england/romans/networks/",
+      "text": "postal service. Water transport complemented roads. Rivers offered a cheaper and faster way to move goods, while coastal shipping connected ports and supplied distant places. London participated in seaborne trade. Letters and other documents could travel with officials or civilian travelers. The Roman transport system therefore included roads, rivers and sea routes."
+    },
+    {
+      "id": "RO02-01",
+      "source_id": "RO02",
+      "title": "Roads in Roman Britain",
+      "organization": "English Heritage; Pete Wilson",
+      "url": "https://www.english-heritage.org.uk/learn/story-of-england/romans/roman-roads/",
+      "text": "After Claudius invaded Britain in 43 CE, the Roman army organized the building of roads linking important military locations. Roads helped troops, officials and messengers travel. They also connected existing settlements that became centers of Roman administration. Construction varied. A common road had a raised bank called an agger, built with layers of stone or gravel. Ditches helped drainage. Some routes were simpler and less substantial, so it is misleading to imagine that every Roman road had the same stone-paved"
+    },
+    {
+      "id": "RO02-02",
+      "source_id": "RO02",
+      "title": "Roads in Roman Britain",
+      "organization": "English Heritage; Pete Wilson",
+      "url": "https://www.english-heritage.org.uk/learn/story-of-england/romans/roman-roads/",
+      "text": "substantial, so it is misleading to imagine that every Roman road had the same stone-paved design. Roads linked forts and towns with sea and river ports. Transporting goods by water was often cheaper, and supplies could use several forms of transport on one journey."
+    }
+  ]
+}

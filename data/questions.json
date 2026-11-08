@@ -1,0 +1,15 @@
+[
+ {"id":"Q01","question":"Why was the Nile important for agriculture in Egypt?","expected_sources":["EG01"],"answerable":true,"review":"Connect fertile land by the Nile to farming."},
+ {"id":"Q02","question":"How was papyrus made into a writing surface?","expected_sources":["EG02"],"answerable":true,"review":"Inner pith strips, layers and drying under pressure."},
+ {"id":"Q03","question":"What everyday objects could be made from papyrus?","expected_sources":["EG02"],"answerable":true,"review":"Examples such as baskets, mats, sandals, ropes or boats."},
+ {"id":"Q04","question":"What was cuneiform and what was it used for?","expected_sources":["ME01"],"answerable":true,"review":"Wedge-shaped writing; economic and other texts."},
+ {"id":"Q05","question":"How did irrigation support the growth of Uruk?","expected_sources":["ME01"],"answerable":true,"review":"Intensive agriculture and canal maintenance supported urban growth."},
+ {"id":"Q06","question":"What transaction is recorded on tablet D 714?","expected_sources":["ME02"],"answerable":true,"review":"A land sale; distinguish the specific object from tablets in general."},
+ {"id":"Q07","question":"Could anyone use the cursus publicus?","expected_sources":["RO01"],"answerable":true,"review":"For official travel; private users needed special permission."},
+ {"id":"Q08","question":"What was an agger in a Roman road?","expected_sources":["RO02"],"answerable":true,"review":"Raised bank forming the road core; stone or gravel."},
+ {"id":"Q09","question":"Compare papyrus in Egypt with clay tablets in Mesopotamia as writing materials.","expected_sources":["EG02","ME02"],"answerable":true,"review":"Retrieve and cite both materials; distinguish material from script."},
+ {"id":"Q10","question":"Why did Romans use water transport as well as roads?","expected_sources":["RO01","RO02"],"answerable":true,"review":"Cheaper goods movement by water and connected transport routes."},
+ {"id":"Q11","question":"What was Cleopatra's exact height in centimeters?","expected_sources":[],"answerable":false,"review":"Refuse: corpus gives no measurement."},
+ {"id":"Q12","question":"How do I repair a car engine?","expected_sources":[],"answerable":false,"review":"Refuse: unrelated to this corpus."},
+ {"id":"Q13","question":"What was the exact annual budget of Roman road maintenance?","expected_sources":["RO01","RO02"],"answerable":false,"review":"Refuse despite topical matches: no budget is provided."}
+]
